@@ -1,7 +1,7 @@
 # Airbnb Price Prediction in Antwerp, Belgium 🏡💰
 
 ## Introduction
-Dive into the heart of Antwerp's Airbnb market with this comprehensive data science project. Our mission is to harness machine learning to illuminate the factors driving Airbnb listing prices, providing hosts with insights to optimize their pricing strategies and enhance their competitiveness.This data science project focuses on predicting Airbnb listing prices in Antwerp, Belgium. Utilizing machine learning algorithms, we aim to provide Airbnb hosts with actionable insights to strategically price their listings. By analyzing diverse datasets, including listing characteristics, host information, calendar data, and customer reviews, we develop models that forecast pricing with a high degree of accuracy, thus enhancing competitiveness in the local Airbnb market.
+Dive into the heart of Antwerp's Airbnb market with this comprehensive data science project. Our mission is to harness machine learning to illuminate the factors driving Airbnb listing prices, providing hosts with insights to optimize their pricing strategies and enhance their competitiveness.
 
 ## Project Scope 🌐
 In the bustling city of Antwerp, where history meets modernity, Airbnb hosts face the challenge of pricing their listings attractively while ensuring profitability. This project employs a multi-faceted approach to predict listing prices, leveraging detailed datasets and advanced analytics to uncover the intricacies of the local Airbnb ecosystem.
