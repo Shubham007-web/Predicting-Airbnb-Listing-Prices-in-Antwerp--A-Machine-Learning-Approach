@@ -1,5 +1,7 @@
 # Airbnb Price Prediction for Antwerp, Belgium
 
+![image](https://github.com/Shubham007-web/Predicting-Airbnb-Listing-Prices-in-Antwerp--A-Machine-Learning-Approach/assets/76661650/2e4708ad-4120-45c4-a2ab-49c4871c9e9d)
+
 ## Overview
 This data science project focuses on predicting Airbnb listing prices in Antwerp, Belgium. Utilizing machine learning algorithms, we aim to provide Airbnb hosts with actionable insights to strategically price their listings. By analyzing diverse datasets, including listing characteristics, host information, calendar data, and customer reviews, we develop models that forecast pricing with a high degree of accuracy, thus enhancing competitiveness in the local Airbnb market.
 
