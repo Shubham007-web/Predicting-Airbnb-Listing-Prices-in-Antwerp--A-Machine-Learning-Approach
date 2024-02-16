@@ -42,7 +42,7 @@ Contributors are welcome to enhance the project's scope or methodology. Please r
 This project is available under the MIT License. For more details, see the LICENSE file.
 
 ## Contact
-For inquiries, suggestions, or contributions, please contact [Contact Name] at [Contact Email].
+For inquiries, suggestions, or contributions, please contact  at [Here](shubham.soni9044@gmail.com).
 
 ## Acknowledgments
 - Special thanks to the data providers and the Airbnb community for the dataset.
